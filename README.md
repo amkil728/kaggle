@@ -1,2 +1,2 @@
-# gaggle
+# kaggle
 Kaggle problem solutions
